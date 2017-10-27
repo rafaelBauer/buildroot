@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Buildroot 2017.11-git-00346-g608a86e Configuration
+# Buildroot 2017.11-git-00347-g92a14f2 Configuration
 #
 BR2_HAVE_DOT_CONFIG=y
 BR2_HOST_GCC_AT_LEAST_4_5=y
@@ -418,9 +418,9 @@ BR2_LINUX_KERNEL=y
 BR2_LINUX_KERNEL_CUSTOM_GIT=y
 # BR2_LINUX_KERNEL_CUSTOM_HG is not set
 # BR2_LINUX_KERNEL_CUSTOM_SVN is not set
-BR2_LINUX_KERNEL_CUSTOM_REPO_URL="git://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git"
-BR2_LINUX_KERNEL_CUSTOM_REPO_VERSION="v4.9.24"
-BR2_LINUX_KERNEL_VERSION="v4.9.24"
+BR2_LINUX_KERNEL_CUSTOM_REPO_URL="https://github.com/rafaelBauer/linux-stable.git"
+BR2_LINUX_KERNEL_CUSTOM_REPO_VERSION="tcc_rafael_4.9.24"
+BR2_LINUX_KERNEL_VERSION="tcc_rafael_4.9.24"
 BR2_LINUX_KERNEL_PATCH=""
 BR2_LINUX_KERNEL_USE_DEFCONFIG=y
 # BR2_LINUX_KERNEL_USE_ARCH_DEFAULT_CONFIG is not set
