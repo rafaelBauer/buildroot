@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Buildroot 2017.11-git-00347-g92a14f2 Configuration
+# Buildroot 2017.11-git-00348-g9802e00 Configuration
 #
 BR2_HAVE_DOT_CONFIG=y
 BR2_HOST_GCC_AT_LEAST_4_5=y
@@ -449,7 +449,7 @@ BR2_LINUX_KERNEL_INTREE_DTS_NAME="zynq-tcc-rafael"
 # Linux Kernel Extensions
 #
 BR2_LINUX_KERNEL_EXT_XENOMAI=y
-BR2_LINUX_KERNEL_EXT_XENOMAI_ADEOS_PATCH="/home/rafael/tcc-rafael/ipipe-core-4.9.24-arm-2.patch"
+BR2_LINUX_KERNEL_EXT_XENOMAI_ADEOS_PATCH="/home/rafael/tcc-rafael/motor-control/patches/ipipe-core-4.9.24-arm-2.patch"
 # BR2_LINUX_KERNEL_EXT_RTAI is not set
 # BR2_LINUX_KERNEL_EXT_EV3DEV_LINUX_DRIVERS is not set
 # BR2_LINUX_KERNEL_EXT_FBTFT is not set
